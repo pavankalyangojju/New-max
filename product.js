@@ -37,7 +37,7 @@ function inputfunction(event) {
 
 var addevent = document.getElementById("prodPageAE");
 addevent.addEventListener("click", function () {
-  window.location.href = "body1.html";
+  window.location.href = "index.html";
 });
 
 //  SORTING SECTION
